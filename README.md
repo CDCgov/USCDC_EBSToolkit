@@ -1,6 +1,6 @@
 # US CDC EBS Toolkit
 
-**Repository:** [github.com/dghpebsunit-ux/USCDC_EBSToolkit](https://github.com/dghpebsunit-ux/USCDC_EBSToolkit)
+**Repository:** [github.com/dghpebsunit-ux/USCDC_EBSToolkit](https://github.com/dghpebsunit-ux/USCDC_EBSToolkit) and [github.com/CDCgov/USCDC_EBSToolkit](https://github.com/CDCgov/USCDC_EBSToolkit)
 
 A practical, modular toolkit for establishing, strengthening, and evaluating Event-Based Surveillance (EBS) as part of a country's Early Warning, Alert and Response (EWAR) system. This repository is maintained by the CDC Global Surveillance, Laboratory, and Data Systems Branch (GSLDSB) EBS Unit, Division of Global Health Protection (DGHP), and packages training materials, templates, and guidance for implementing EBS using a stepwise, multisectoral, One Health approach.
 
@@ -74,7 +74,7 @@ EBS and broader EWAR implementation should be approached **stepwise**, not all a
 
 ## Repository Structure
 
-This layout mirrors the modular design of the EBS Toolkit materials. Folder links point to the corresponding directory in the [GitHub repository](https://github.com/dghpebsunit-ux/USCDC_EBSToolkit).
+This layout mirrors the modular design of the EBS Toolkit materials. Folder links point to the corresponding directory in the [GitHub repository](https://github.com/CDCgov/USCDC_EBSToolkit).
 
 ```
 Module 1 - EWAR
@@ -242,7 +242,7 @@ See `/M9 - M&E/` for indicator tables, evaluation plan templates, and scorecards
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/dghpebsunit-ux/USCDC_EBSToolkit.git
+   git clone https://github.com/CDCgov/USCDC_EBSToolkit.git
    cd USCDC_EBSToolkit
    ```
 2. **Assess current capacity.** Use the EWAR/EBS assessment tools in `/Supplemental Docs/` to identify existing surveillance strengths and gaps before adding new components.
@@ -253,7 +253,7 @@ See `/M9 - M&E/` for indicator tables, evaluation plan templates, and scorecards
 7. **Train and supervise.** Use the ToT materials and supportive supervision checklist to build and sustain workforce capacity.
 8. **Monitor and evaluate continuously.** Integrate M&E indicators from day one rather than retrofitting them later.
 
-> Materials are organized to be used in workshops, self-paced learning, or facilitated training environments. See open [Issues](https://github.com/dghpebsunit-ux/USCDC_EBSToolkit/issues) for known gaps or planned additions, and [Releases](https://github.com/dghpebsunit-ux/USCDC_EBSToolkit/releases) for versioned toolkit snapshots.
+> Materials are organized to be used in workshops, self-paced learning, or facilitated training environments. See open [Issues](https://github.com/CDCgov/USCDC_EBSToolkit/issues) for known gaps or planned additions, and [Releases](https://github.com/CDCgov/USCDC_EBSToolkit/releases) for versioned toolkit snapshots.
 
 ---
 
@@ -276,7 +276,7 @@ For questions about the CDC EBS Toolkit materials specifically, contact the GSLD
 
 If you use or adapt materials from this toolkit, please cite it as:
 
-> US CDC. *EBS Toolkit* [Internet]. 2024. Available from: https://github.com/dghpebsunit-ux/USCDC_EBSToolkit
+> US CDC. *EBS Toolkit* [Internet]. 2024. Available from: https://github.com/CDCgov/USCDC_EBSToolkit
 
 BibTeX:
 
@@ -286,7 +286,7 @@ BibTeX:
   title        = {EBS Toolkit},
   year         = {2024},
   publisher    = {GitHub},
-  url          = {https://github.com/dghpebsunit-ux/USCDC_EBSToolkit}
+  url          = {https://github.com/CDCgov/USCDC_EBSToolkit}
 }
 ```
 
@@ -294,7 +294,7 @@ BibTeX:
 
 ## Contributing
 
-Contributions, translations, and country-adapted examples are welcome via pull request to [dghpebsunit-ux/USCDC_EBSToolkit](https://github.com/dghpebsunit-ux/USCDC_EBSToolkit). Please open an [issue](https://github.com/dghpebsunit-ux/USCDC_EBSToolkit/issues) describing proposed changes before submitting a pull request, especially for changes to signal lists, thresholds, or SOP templates, since these should be reviewed by public health/surveillance subject matter experts before adoption.
+Contributions, translations, and country-adapted examples are welcome via pull request to [CDCgov/USCDC_EBSToolkit](https://github.com/CDCgov/USCDC_EBSToolkit). Please open an [issue](https://github.com/CDCgov/USCDC_EBSToolkit/issues) describing proposed changes before submitting a pull request, especially for changes to signal lists, thresholds, or SOP templates, since these should be reviewed by public health/surveillance subject matter experts before adoption.
 
 ## Contact
 
@@ -304,11 +304,11 @@ Maintained by the CDC GSLDSB EBS Unit:
 - Stephanie Salyer — wig9@cdc.gov
 - General mailbox — GSLDSEBS@cdc.gov
 
-For questions about this repository specifically, open an issue at [github.com/dghpebsunit-ux/USCDC_EBSToolkit/issues](https://github.com/dghpebsunit-ux/USCDC_EBSToolkit/issues).
+For questions about this repository specifically, open an issue at [github.com/CDCgov/USCDC_EBSToolkit/issues](https://github.com/CDCgov/USCDC_EBSToolkit/issues).
 
 ## License
 
-[EBS Toolkit](https://github.com/dghpebsunit-ux/USCDC_EBSToolkit) © 2024 by [US CDC/CGH/DGHP/GSLDSB/SET/EBS Unit](https://example.com) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[EBS Toolkit](https://github.com/CDCgov/USCDC_EBSToolkit) © 2024 by [US CDC/CGH/DGHP/GSLDSB/SET/EBS Unit](https://cdcc.gov) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Materials adapted from WHO and Africa CDC publications may carry their own licensing/attribution requirements (e.g., CC BY-NC-SA 3.0 IGO for WHO materials) — verify and retain original attribution notices when redistributing derived content.
 
