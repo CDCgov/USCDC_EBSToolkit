@@ -308,7 +308,7 @@ For questions about this repository specifically, open an issue at [github.com/C
 
 ## License
 
-[EBS Toolkit](https://github.com/CDCgov/USCDC_EBSToolkit) © 2024 by [US CDC/CGH/DGHP/GSLDSB/SET/EBS Unit](https://cdcc.gov) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[EBS Toolkit](https://github.com/CDCgov/USCDC_EBSToolkit) © 2024 by [US CDC/CGH/DGHP/GSLDSB/SET/EBS Unit](https://cdc.gov) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Materials adapted from WHO and Africa CDC publications may carry their own licensing/attribution requirements (e.g., CC BY-NC-SA 3.0 IGO for WHO materials) — verify and retain original attribution notices when redistributing derived content.
 
